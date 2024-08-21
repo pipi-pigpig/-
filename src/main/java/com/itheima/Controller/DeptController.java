@@ -2,7 +2,6 @@ package com.itheima.Controller;
 
 import com.itheima.Service.DeptService;
 import com.itheima.pojo.Dept;
-import org.apache.ibatis.annotations.Delete;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
