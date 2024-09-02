@@ -10,7 +10,7 @@ import java.util.List;
 
 //我是张钦安---测试--01-02-03-04
 //我是等等纳豆奶奶-01
-//表查询相关信息
+//表查询相关信息666
 @RestController
 @RequestMapping("/dept")
 public class DeptController {
